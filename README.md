@@ -1,4 +1,6 @@
 ### Hi there 👋
 
 👨‍🎓 Studying Applied Information Technology\
-💻 Working on automating deployments with Ansible, Terraform, Packer and Docker
+🔧 Automating things with Ansible, Packer and Terraform
+💻 Coding in Java and Python
+👥 Agile project management
